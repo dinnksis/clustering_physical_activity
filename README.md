@@ -1,1 +1,0 @@
-# clustering_physical_activity
